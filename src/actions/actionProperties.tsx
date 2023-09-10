@@ -714,8 +714,8 @@ export const actionChangeFontFamily = register({
         icon: FreedrawIcon,
       },
       {
-        value: FONT_FAMILY.Ark_en,
-        text: t("labels.ark_en"),
+        value: FONT_FAMILY.Retro_pixel,
+        text: t("labels.retro_pixel"),
         icon: FreedrawIcon,
       },
       {

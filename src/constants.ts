@@ -98,7 +98,7 @@ export const FONT_FAMILY = {
   Helvetica: 2,
   Cascadia: 3,
   Yozai_Light: 4,
-  Ark_en: 5,
+  Retro_pixel: 5,
   Ark_zh_CN: 6,
 };
 
