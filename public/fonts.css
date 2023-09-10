@@ -11,6 +11,18 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Ark_en";
+  src: url("ark-pixel-12px-monospaced-latin.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ark_zh_CN";
+  src: url("ark-pixel-12px-monospaced-zh_cn.ttf");
+  font-display: swap;
+}
+
 /* https://github.com/microsoft/cascadia-code */
 @font-face {
   font-family: "Cascadia";
